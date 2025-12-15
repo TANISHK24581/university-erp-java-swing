@@ -1,7 +1,7 @@
 # University ERP System (Java Swing & MySQL)
 
 A role-based University ERP desktop application built using Java Swing and MySQL, designed to manage courses, class sections, enrollments, grading, and user administration in a secure and structured way. The system enforces strict access control, maintenance mode, and secure authentication using a two-database (Auth + ERP) architecture inspired by the UNIX “shadow password” model.The system follows a layered architecture aligned with MVC principles, where Swing UI acts as the View, domain models represent the Model, and API/Service layers function as Controllers.
-.
+
 
 ## Key Highlights
 - Role-based dashboards for Student, Instructor, and Admin

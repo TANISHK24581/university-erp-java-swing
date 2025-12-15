@@ -51,4 +51,4 @@ Java (JDK 17+), Java Swing, MySQL, JDBC, BCrypt (jBCrypt), FlatLaf
 
 ## Author
 **Tanishk Singh Yadav**  
-Java | Swing | MySQL | Desktop Application Development
+
